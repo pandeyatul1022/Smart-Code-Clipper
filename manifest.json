@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Smart Code Clipper",
+  "version": "2.0.0",
+  "description": "Removes leading line numbers from pasted code and copies the result to the clipboard.",
+  "permissions": [
+    "clipboardWrite"
+  ],
+  "action": {
+    "default_title": "Code Clipboard Modifier",
+    "default_popup": "popup.html",
+    "default_icon": "assets/images/icon.png"
+  },
+  "icons": {
+    "48": "assets/images/icon.png"
+  }
+}
