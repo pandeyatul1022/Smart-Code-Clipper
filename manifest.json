@@ -8,7 +8,7 @@
   ],
   "action": {
     "default_title": "Code Clipboard Modifier",
-    "default_popup": "popup.html",
+    "default_popup": "index.html",
     "default_icon": "assets/images/icon.png"
   },
   "icons": {

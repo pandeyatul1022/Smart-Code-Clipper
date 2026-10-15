@@ -25,7 +25,7 @@ Smart Code Clipper/
 |   |   `-- icon.png
 |   `-- js/
 |       `-- popup.js
-|-- popup.html
+|-- index.html
 |-- manifest.json
 |-- LICENSE
 `-- README.md
